@@ -1,0 +1,7 @@
+git add .
+
+git commit -m "Initial commit: Established handshake with .gitignore and README"
+
+git remote add origin <https://github.com/repos?q=owner%3A%40me>
+
+git push -u origin main
